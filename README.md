@@ -1,7 +1,7 @@
 ### Olá ! Seja Bem-Vindo(a) ao meu Github !
 
 - 🖥️ Analise e Desenvolvimento De Sistemas - UNIT.
-- 🌱 Atualente estou aprendendo HTML,CSS, JAVASCRIPT.
+- 🌱 Atualmente estou aprendendo HTML,CSS, JAVASCRIPT.
 - 😄 Pronouns: Ela/Dela
 - 📫 Como chegar até a mim: emilyraquel140@gmail.com
 
